@@ -46,13 +46,104 @@ Grading
 
 Students take this course for different reasons, and so there are correspondingly different levels of commitments by students. As such, there are three options for fulfilling course requirements.
 
-| ACTIVITIES | PERCENTAGES | REQUIRED? |
-| --- | --- | --- |
-| 12 credit | 6 credit | listener |
-| --- | --- | --- |
-| Class participation {{< br >}}{{< br >}} 1.  [In-class idea notes]({{< baseurl >}}/pages/assignments#In-class_Idea_Notes): 27%{{< br >}}2.  Discussion: 13% {{< br >}}{{< br >}}  | 40 | Yes | Yes | Yes |
-| [Literature synthesis]({{< baseurl >}}/pages/assignments#Literature_Synthesis) | 20 | Yes | Yes | No |
-|  {{< br >}}{{< br >}} [Team project]({{< baseurl >}}/pages/projects) {{< br >}}{{< br >}} 1.  Idea: Not graded{{< br >}}2.  Proposal: 10%{{< br >}}3.  Draft report: 10%{{< br >}}4.  Final report: 20% {{< br >}}{{< br >}}  | 40 | Yes | No | No 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+{{< thopen >}}
+REQUIRED?
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+12 credit
+{{< thclose >}}
+{{< thopen >}}
+6 credit
+{{< thclose >}}
+{{< thopen >}}
+listener
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+
+1.  [In-class idea notes]({{< baseurl >}}/pages/assignments#In-class_Idea_Notes): 27%
+2.  Discussion: 13%
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen >}}
+Yes
+{{< tdclose >}}
+{{< tdopen >}}
+Yes
+{{< tdclose >}}
+{{< tdopen >}}
+Yes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Literature synthesis]({{< baseurl >}}/pages/assignments#Literature_Synthesis)
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Yes
+{{< tdclose >}}
+{{< tdopen >}}
+Yes
+{{< tdclose >}}
+{{< tdopen >}}
+No
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[Team project]({{< baseurl >}}/pages/projects)
+
+1.  Idea: Not graded
+2.  Proposal: 10%
+3.  Draft report: 10%
+4.  Final report: 20%
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen >}}
+Yes
+{{< tdclose >}}
+{{< tdopen >}}
+No
+{{< tdclose >}}
+{{< tdopen >}}
+No
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Students are expected to deliver multiple presentations: on literature synthesis, on the team project idea, proposal and draft report. Presentations are not graded.
 

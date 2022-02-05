@@ -13,18 +13,143 @@ Students will pair themselves and deliver a project as a team. Each pair will ch
 
 The following table details the required components for the project proposal and reports.
 
-| PROJECT PROPOSAL | PROJECT REPORT (DRAFT AND FINAL) |
-| --- | --- |
-| Project title | Project title |
-| Highlights | Highlights |
-| Abstract (250 words) | Abstract (250 words) |
-| Keywords | Keywords |
-| 1\. Introduction {{< br >}}{{< br >}} *   Context / significance{{< br >}}*   Objectives / research questions {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. Introduction {{< br >}}{{< br >}} *   Context / significance{{< br >}}*   Objectives / research questions {{< br >}}{{< br >}}  |
-| 2\. Literature Review |  {{< br >}}{{< br >}} 2\. Literature Review {{< br >}}{{< br >}}  |
-| 3\. Methodology {{< br >}}{{< br >}} *   Data{{< br >}}*   Models / theories / methods {{< br >}}{{< br >}}  | 3\. Methodology {{< br >}}{{< br >}} *   Data{{< br >}}*   Models / theories / methods {{< br >}}{{< br >}}  |
-| 4\. Expected results | 4\. Analysis of results and interpretation |
-| 5\. Expected impact and policy implications | 5\. Discussion {{< br >}}{{< br >}} *   Summary of research findings{{< br >}}*   Impact and policy implications{{< br >}}*   Limitations and future research {{< br >}}{{< br >}}  |
-| 6\. References | 6\. References 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROJECT PROPOSAL
+{{< thclose >}}
+{{< thopen >}}
+PROJECT REPORT (DRAFT AND FINAL)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project title
+{{< tdclose >}}
+{{< tdopen >}}
+Project title
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Highlights
+{{< tdclose >}}
+{{< tdopen >}}
+Highlights
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Abstract (250 words)
+{{< tdclose >}}
+{{< tdopen >}}
+Abstract (250 words)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Keywords
+{{< tdclose >}}
+{{< tdopen >}}
+Keywords
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Introduction
+
+*   Context / significance
+*   Objectives / research questions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. Introduction
+
+*   Context / significance
+*   Objectives / research questions
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2\. Literature Review
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+2\. Literature Review
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3\. Methodology
+
+*   Data
+*   Models / theories / methods
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+3\. Methodology
+
+*   Data
+*   Models / theories / methods
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4\. Expected results
+{{< tdclose >}}
+{{< tdopen >}}
+4\. Analysis of results and interpretation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5\. Expected impact and policy implications
+{{< tdclose >}}
+{{< tdopen >}}
+5\. Discussion
+
+*   Summary of research findings
+*   Impact and policy implications
+*   Limitations and future research
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6\. References
+{{< tdclose >}}
+{{< tdopen >}}
+6\. References
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Please use [Mendeley](http://www.mendeley.com/) or [Zotero](https://www.zotero.org/) for references, and follow the [APA Style®](http://www.apastyle.org/).
 
