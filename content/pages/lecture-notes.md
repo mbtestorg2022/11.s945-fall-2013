@@ -376,7 +376,7 @@ The need to finance urban access to meet the mobility needs of the developed and
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 16 Slides (PDF)]({{< baseurl >}}/resources/mit11_s945f13_session16)
+[Lecture 16 Slides (PDF)]({{< baseurl >}}/resources/mit11_s945f13_session16)
 
 (_Courtesy of David Block-Schachter. Used with permission._)
 
@@ -422,7 +422,7 @@ Module Summary; Student Presentations for Phase 3: Literature
 
 [Lecture 18 Slides (PDF- 1.8MB)]({{< baseurl >}}/resources/mit11_s945f13_session18)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 19 Slides (PDF - 2.6MB)]({{< baseurl >}}/resources/mit11_s945f13_session19)
+[Lecture 19 Slides (PDF - 2.6MB)]({{< baseurl >}}/resources/mit11_s945f13_session19)
 
 
 {{< tdclose >}}
